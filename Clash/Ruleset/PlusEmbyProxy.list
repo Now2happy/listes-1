@@ -1,8 +1,8 @@
 # 内容：Plus Emby Proxy
 # 数量：4条
 # 备用服 屏蔽大陆IP，请使用·香港,新加坡，日本线路登录观看
-DOMAIN-SUFFIX,cf.jmsooo.com
-DOMAIN-SUFFIX,s.ii00.cc
-DOMAIN-SUFFIX,cloud.dahh.vip
-DOMAIN-SUFFIX,moe.dahh.vip
-DOMAIN-SUFFIX,cm.dahh.vip
+HOST-SUFFIX,cf.jmsooo.com
+HOST-SUFFIX,s.ii00.cc
+HOST-SUFFIX,cloud.dahh.vip
+HOST-SUFFIX,moe.dahh.vip
+HOST-SUFFIX,cm.dahh.vip
