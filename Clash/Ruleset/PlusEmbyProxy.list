@@ -3,8 +3,7 @@
 # 备用服 屏蔽大陆IP，请使用·香港,新加坡，日本线路登录观看
 HOST-SUFFIX,cf.jmsooo.com,emby
 HOST-SUFFIX,s.ii00.cc,emby
-HOST-SUFFIX,cloud.dahh.vip,emby
-HOST-SUFFIX,moe.dahh.vip,emby
-HOST-SUFFIX,cm.dahh.vip,emby
+HOST-SUFFIX,dahh.vip,emby
 HOST-KEYWORD,misakaf,emby
-
+HOST-SUFFIX,bili.rip
+HOST-SUFFIX,emby77.org
