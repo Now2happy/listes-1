@@ -1,9 +1,9 @@
-
-DOMAIN-SUFFIX,cf.jmsooo.com
-DOMAIN-SUFFIX,s.ii00.cc
-DOMAIN-SUFFIX,dahh.vip
-DOMAIN-KEYWORD,misakaf
-DOMAIN-SUFFIX,bili.rip
-DOMAIN-SUFFIX,emby77.org
-DOMAIN-SUFFIX,atomlantis.cloud
-DOMAIN-SUFFIX,emby.lcloud.wiki
+payload:
+  - DOMAIN-SUFFIX,cf.jmsooo.com
+  - DOMAIN-SUFFIX,s.ii00.cc
+  - DOMAIN-SUFFIX,dahh.vip
+  - DOMAIN-KEYWORD,misakaf
+  - DOMAIN-SUFFIX,bili.rip
+  - DOMAIN-SUFFIX,emby77.org
+  - DOMAIN-SUFFIX,atomlantis.cloud
+  - DOMAIN-SUFFIX,emby.lcloud.wiki
