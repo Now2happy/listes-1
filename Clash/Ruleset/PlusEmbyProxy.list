@@ -1,13 +1,13 @@
 # 内容：Plus Emby Proxy
 # 数量：4条
 # 备用服 屏蔽大陆IP，请使用·香港,新加坡，日本线路登录观看
-HOST-SUFFIX,cf.jmsooo.com,emby
-HOST-SUFFIX,s.ii00.cc,emby
-HOST-SUFFIX,dahh.vip,emby
-HOST-KEYWORD,misakaf,emby
-HOST-SUFFIX,bili.rip,emby
-HOST-SUFFIX,emby77.org,emby
-HOST-SUFFIX,atomlantis.cloud,emby
-HOST-SUFFIX,emby.lcloud.wiki,emby
-HOST-SUFFIX,emby.pilipiliultra.top,emby
-HOST-SUFFIX,ash.yt,emby
+DOMAIN-SUFFIX,cf.jmsooo.com
+DOMAIN-SUFFIX,s.ii00.cc
+DOMAIN-SUFFIX,dahh.vip
+DIMAIN-KEYWORD,misakaf
+DOMAIN-SUFFIX,bili.rip
+DOMAIN-SUFFIX,emby77.org
+DOMAIN-SUFFIX,atomlantis.cloud
+DOMAIN-SUFFIX,emby.lcloud.wiki
+DOMAIN-SUFFIX,emby.pilipiliultra.top
+DOMAIN-SUFFIX,ash.yt
