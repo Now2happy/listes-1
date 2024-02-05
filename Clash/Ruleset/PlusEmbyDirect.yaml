@@ -1,12 +1,12 @@
-payload:
-  - DOMAIN-SUFFIX,cf.jmsooo.com
-  - DOMAIN-SUFFIX,s.ii00.cc
-  - DOMAIN-SUFFIX,dahh.vip
-  - DOMAIN-KEYWORD,misakaf
-  - DOMAIN-SUFFIX,bili.rip
-  - DOMAIN-SUFFIX,emby77.org
-  - DOMAIN-SUFFIX,atomlantis.cloud
-  - DOMAIN-SUFFIX,emby.lcloud.wiki
-  - DOMAIN-SUFFIX,emby.pilipiliultra.top
-  - DOMAIN-SUFFIX,ash.yt
-  - DOMAIN-SUFFIX,xmsl.org
+
+HOST-SUFFIX,cf.jmsooo.com
+HOST-SUFFIX,s.ii00.cc
+HOST-SUFFIX,dahh.vip
+HOST-KEYWORD,misakaf
+HOST-SUFFIX,bili.rip
+HOST-SUFFIX,emby77.org
+HOST-SUFFIX,atomlantis.cloud
+HOST-SUFFIX,emby.lcloud.wiki
+HOST-SUFFIX,emby.pilipiliultra.top
+HOST-SUFFIX,ash.yt
+HOST-SUFFIX,xmsl.org
