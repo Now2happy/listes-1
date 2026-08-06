@@ -1,5 +1,5 @@
 DOMAIN-SUFFIX,*.lilyemby.com
-DOMAIN-SUFFIX,www.uhdnow.com
-DOMAIN-SUFFIX,speed.uhdnow.com
-DOMAIN-SUFFIX,smart.uhdnow.com
-DOMAIN-SUFFIX,*.uhdnow.online
+DOMAIN,www.uhdnow.com
+DOMAIN,smart.uhdnow.com
+DOMAIN,speed.uhdnow.com
+DOMAIN-SUFFIX,uhdnow.online
